@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @RedeyeDW
-- 👀 I’m interested in playing games and developing
-- 🌱 I’m currently learning Unreal & Unity.
+- 👋 Hi, I’m Deniz!
+- 👀 I’m interested in playing games and developing games.
+- 🌱 I’m currently studying Computer Programming.
